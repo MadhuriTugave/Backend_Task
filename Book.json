@@ -1,0 +1,102 @@
+[
+    {
+        "BookName":"Pride and Prejudice",
+        "Category":"Romance",
+        "Rent_Per_day": 50
+    },
+    {
+        "BookName":"The Notebook",
+        "Category":"Romance",
+        "Rent_Per_day": 40
+    },
+    {
+        "BookName":"The Nightingale",
+        "Category":"History",
+        "Rent_Per_day": 60
+    },
+    {
+        "BookName":"A Brief History of Humankind",
+        "Category":"History",
+        "Rent_Per_day": 65
+    },
+    {
+        "BookName":"The Book Thief",
+        "Category":"History",
+        "Rent_Per_day": 30
+    },
+    {
+        "BookName":"Educated",
+        "Category":"Memoir",
+        "Rent_Per_day": 50
+    },
+    {
+        "BookName":"Becoming",
+        "Category":"Memoir",
+        "Rent_Per_day": 30
+    },
+    {
+        "BookName":"The Power of Now",
+        "Category":"Spirituality",
+        "Rent_Per_day": 80
+    },
+    {
+        "BookName":"The Untethered Soul",
+        "Category":"Spirituality",
+        "Rent_Per_day": 100
+    },
+    {
+        "BookName":"The Alchemist",
+        "Category":"Spirituality",
+        "Rent_Per_day": 45
+    },
+    {
+        "BookName":"The Immortal Life of Henrietta Lacks",
+        "Category":"Science",
+        "Rent_Per_day": 55
+    },
+    {
+        "BookName":"A Brief History of Time",
+        "Category":"Science",
+        "Rent_Per_day": 50
+    },
+    {
+        "BookName":"The Shining",
+        "Category":"horror ",
+        "Rent_Per_day": 70
+    },
+    {
+        "BookName":"Dracula",
+        "Category":"horror",
+        "Rent_Per_day": 75
+    },
+    {
+        "BookName":"Eat, Pray, Love",
+        "Category":"travel  ",
+        "Rent_Per_day": 60
+    },
+    {
+        "BookName":"Into the Wild",
+        "Category":"travel ",
+        "Rent_Per_day": 85
+    },
+    {
+        "BookName":"Good to Great",
+        "Category":"Business   ",
+        "Rent_Per_day": 60
+    },
+    {
+        "BookName":"The Lean Startup",
+        "Category":"Business  ",
+        "Rent_Per_day": 85
+    },
+    {
+        "BookName":"Thinking, Fast and Slow",
+        "Category":"Psychology   ",
+        "Rent_Per_day": 60
+    },
+    {
+        "BookName":"Man’s Search for Meaning",
+        "Category":"Memoir  ",
+        "Rent_Per_day": 85
+    }
+]
